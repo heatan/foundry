@@ -64,3 +64,16 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+git
+echo "# hello_foundry" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/heatan/hello_foundry.git
+git push -u origin main
+
+git remote add origin https://github.com/heatan/hello_foundry.git
+git branch -M main
+git push -u origin main
