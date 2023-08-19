@@ -16,3 +16,6 @@
 [submodule "fund-lesson/lib/chainlink-brownie-contracts"]
 	path = fund-lesson/lib/chainlink-brownie-contracts
 	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "lesson-foundry/lib/forge-std"]
+	path = lesson-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
